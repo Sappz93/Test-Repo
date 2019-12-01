@@ -7,6 +7,7 @@ Green
 Blue
 Unicorn
 Violet
+Indigo
 Purple
 
 These are the colours of the rainbow.
